@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # wallet-payment-api
 
 # 💳 Wallet Payment API (Paytm Clone Backend)
+=======
+
+# 💳 Wallet Payment API 
+>>>>>>> bcac2012442acc117cfbe1a1a9cb8b516b896752
 
 A backend system for a digital wallet application that allows users to register, authenticate, send money, and view transaction history — inspired by apps like Paytm.
 
